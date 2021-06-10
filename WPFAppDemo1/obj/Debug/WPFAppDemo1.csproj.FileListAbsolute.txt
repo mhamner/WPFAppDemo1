@@ -1,0 +1,15 @@
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\bin\Debug\WPFAppDemo1.exe.config
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\bin\Debug\WPFAppDemo1.exe
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\bin\Debug\WPFAppDemo1.pdb
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\WPFAppDemo1.csprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\MainWindow.g.cs
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\App.g.cs
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\WPFAppDemo1_MarkupCompile.cache
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\WPFAppDemo1_MarkupCompile.lref
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\MainWindow.baml
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\WPFAppDemo1.g.resources
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\WPFAppDemo1.Properties.Resources.resources
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\WPFAppDemo1.csproj.GenerateResource.cache
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\WPFAppDemo1.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\WPFAppDemo1.exe
+C:\Users\mark.hamner\source\repos\WPFAppDemo1\WPFAppDemo1\obj\Debug\WPFAppDemo1.pdb
